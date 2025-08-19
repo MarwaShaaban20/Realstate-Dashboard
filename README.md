@@ -1,4 +1,3 @@
-تمام ✅ خليني أظبطلك نسخة README.md بالـ **Markdown** يكون فيها كمان لينك الداتا اللي اديتني:
 
 # 🏡 Real Estate Dashboard
 
@@ -6,6 +5,11 @@ This project provides a **comprehensive dashboard** for real estate operations, 
 The dashboard helps decision-makers track performance, analyze trends, and make data-driven decisions.
 
 📂 **Dataset used**: [Google Sheets Link](https://docs.google.com/spreadsheets/d/1nkNxfQsLwNOYeTmIRMbLj1eg3rUol2Zz/edit?gid=1136502799#gid=1136502799)
+
+## 🛠️ Tools & Technologies
+- **SQL** → for data cleaning, transformation, and enrichment.  
+- **Power BI** → for building interactive dashboards and visualizations.  
+
 
 ---
 
@@ -56,5 +60,10 @@ The dashboard helps decision-makers track performance, analyze trends, and make 
 - Compares visits vs. sales to understand **conversion rates**.  
 - Useful for spotting **properties with high interest but low sales**, highlighting potential issues.  
 <img width="1608" height="831" alt="Visits Page" src="https://github.com/user-attachments/assets/b00b43ba-0466-40c9-a869-41bcef8157e7" />
+
+---
+###Conclusion
+The key takeaway: visits alone do not guarantee sales. Conversion depends on multiple factors—location, seasonality, property type, and above all, agent performance.
+
 
 
