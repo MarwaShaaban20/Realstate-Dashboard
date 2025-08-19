@@ -62,7 +62,7 @@ The dashboard helps decision-makers track performance, analyze trends, and make 
 <img width="1608" height="831" alt="Visits Page" src="https://github.com/user-attachments/assets/b00b43ba-0466-40c9-a869-41bcef8157e7" />
 
 ---
-###Conclusion
+Conclusion
 The key takeaway: visits alone do not guarantee sales. Conversion depends on multiple factors—location, seasonality, property type, and above all, agent performance.
 
 
